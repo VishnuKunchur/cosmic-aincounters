@@ -1,2 +1,2 @@
 # Cosmic AIncounters
-Multi-Agentic interactions with LLMs to simulate a simplified version of the Cosmic Encounter board game
+LLM-based multi-Agentic simulations of a simplified version of the Cosmic Encounter board game
