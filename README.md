@@ -10,6 +10,6 @@ Quick Access and Setup:
   </a>
 </p>
 
-2. Obtain a Google API key from <a href="https://aistudio.google.com/app/api-keys">. The API key should look like "AIza..."
+2. Obtain a <a href="https://aistudio.google.com/app/api-keys">Google API key</a>. The API key should look like "AIza..."
 
-3. Modify the cell requiring the API key, and simply Run All.
+3. Modify the cell requiring the API key, and simply Run All cells.
