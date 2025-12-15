@@ -13,4 +13,4 @@ LLM based multi-Agentic simulations of a simplified version of the Cosmic Encoun
 
 2. Obtain a <a href="https://aistudio.google.com/app/api-keys">Google API key</a>. The API key should look like "AIza..."
 
-3. Modify the cell requiring the API key, and simply Run All cells.
+3. Modify the cell in the notebook requiring the API key, and simply Run All cells.
